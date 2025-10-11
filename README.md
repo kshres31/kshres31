@@ -78,7 +78,3 @@ Jacksonville State University (2024 – Present)
 
 ---
 
-## 📊 GitHub Stats
-
-![Karun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshres31&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshres31&layout=compact&theme=radical)
