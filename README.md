@@ -1,72 +1,96 @@
-# Hi, I'm Karun Shrestha 👋
-
-**Computer Science Student | Aspiring Software Engineer | Passionate about Building Scalable Applications**
-
-I'm a Computer Science student at **Jacksonville State University** with strong programming skills in **Python, Java, and C++**.  
-I enjoy building projects that solve real problems, learning new technologies, and collaborating with others.
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Karun+Shrestha!;Computer+Science+Student+@+Jacksonville+State+University;Aspiring+Software+Engineer+💻;Passionate+About+Building+Real-World+Software+🌍" alt="Typing SVG" />
+</h1>
 
 ---
 
-## 🔭 Currently Working On
-- Building microservice-based applications using **Flask** and **Node.js**
-- Exploring **cloud technologies** and integrating projects with **Firebase**
-- Practicing **Data Structures & Algorithms** on LeetCode and HackerRank
+### 🌟 About Me  
+
+I'm **Karun Shrestha**, a **Computer Science student at Jacksonville State University** who loves turning abstract ideas into working software.  
+Curious by nature, I’m constantly exploring new technologies and improving my problem-solving skills through hands-on projects and DSA practice.  
+
+> 💡 “Code is the bridge between imagination and innovation.”
 
 ---
 
-## 🛠 Skills
+### 🛠️ Tech Stack  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
----
-
-## 💻 Projects 🔗 [View Projects](https://github.com/kshres31/Projects))
-
-### 🧩 **Microservice Task Manager (Python Flask)**
-- Built a RESTful API to create, update, and delete tasks using **Flask**.
-- Practiced microservice design, JSON handling, and version control with **Git**.
-- **Tech Stack:** Python, Flask, REST API, JSON  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <br/>
+  <!-- Web & Frameworks -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <br/>
+  <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
 
 ---
 
-### 🔐 **Encrypted Chat Application (Node.js & WebSockets)**
-- Created a real-time chat app with **JWT authentication** and message encryption.
-- Implemented **WebSockets** for instant communication and user connection handling.
-- **Tech Stack:** Node.js, Express, JWT, WebSockets  
+### 🔭 Currently Working On  
 
-
----
-
-### ☁️ **Cloud Logger (Python & Firebase)**
-- Developed a system logger that tracks CPU and memory usage and uploads data to **Firebase**.
-- Explored automation, **cloud integration**, and performance monitoring.
-- **Tech Stack:** Python, Firebase, Automation, Cloud APIs  
-
+- 🚀 Building my **portfolio website** with React + Node.js  
+- 🧩 Developing **small web apps** to enhance backend & frontend skills  
+- 💡 Practicing **Data Structures & Algorithms** for coding interviews  
 
 ---
 
-## 🎓 Education
-**Bachelor of Science in Computer Science**  
-*Jacksonville State University (Expected May 2027)*  
+### 💼 Projects  
 
-**Relevant Coursework:**  
-Programming (Python, Java, C++), Data Structures & Algorithms, Database Systems, Web Development, Discrete Math, Probability & Statistics, Technical Writing
+<p align="center">
+
+🔹 [**💬 Real-Time Chat App**](https://github.com/kshres31/chat-app) — Secure WebSocket-based chat with encryption  
+<br/>
+🔹 [**🌐 Portfolio Website**](https://github.com/kshres31/portfolio) — Personal portfolio built with React & modern UI  
+<br/>
+🔹 [**🔎 API Collection**](https://github.com/kshres31/api-projects) — REST APIs for text analysis, authentication, and more  
+<br/>
+🔹 [**📊 Student Management System**](https://github.com/kshres31/student-mgmt) — CRUD app using Java + MySQL  
+<br/>
+🔹 [**🧠 DSA Practice Repo**](https://github.com/kshres31/dsa-practice) — LeetCode-style algorithm solutions
+
+</p>
 
 ---
 
-## 🏆 Experience
-**Supplemental Instructor (Python Course)** – Jacksonville State University  
-- Mentored students, coordinated study sessions, and improved engagement and understanding.  
-- Strengthened communication, leadership, and mentoring skills.  
+### 📈 GitHub Stats  
 
-**Student Worker (College Cafeteria)** – Jacksonville State University  
-- Collaborated with team members, managed operations, and built time-ma
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kshres31&show_icons=true&theme=radical" alt="Karun's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshres31&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshres31&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🤝 Let’s Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/karun-shrestha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kshres31" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:kshres31@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>“🚀 Turning ideas into code that impacts people.”</b>
+</p>
