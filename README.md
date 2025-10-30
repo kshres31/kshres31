@@ -1,4 +1,4 @@
-a# Hi, I'm Karun Shrestha 👋
+Hi, I'm Karun Shrestha 👋
 
 **Computer Science Student | Aspiring Software Engineer | Passionate about Building Scalable Applications**
 
